@@ -1,8 +1,11 @@
-# Calculating_Customer_Lifetime_Value
-Project was inspired and based off the work of [**The AI University**](https://youtu.be/DJ3r0r1h5Pg). Please check them out and show support for a great resource.
+# Calculating Customer Lifetime Value
+### Why is Understanding Customer Lifetime Value Important?
 
-Using customer data to determine customer lifetime value using the lifetimes module and the BetaGeoFitter model
+In the competitive landscape of modern business, understanding the value each customer brings to a company is not just a strategic advantage—it's an imperative. One of the most significant metrics in this respect is the Customer Lifetime Value (CLV). Delving deep into CLV provides businesses with a lens through which they can view and forecast their interactions with customers, from initial acquisition to eventual parting ways.
 
-Who are our most valuable customers? Finding customer lifetime values answers that question.
+At its core, CLV represents the total revenue a business can expect from a single customer account throughout the duration of their relationship. It's an indicator of not just how much a customer is worth now, but how much they'll be worth in the future. This foresight is invaluable. By comprehending the potential long-term value of a customer, businesses can make informed decisions about how much they're willing to spend on acquiring new customers and the extent to which they should go to retain existing ones. In a world where acquisition costs often surpass retention expenses, this knowledge can significantly impact a company's bottom line.
 
-Using customer customer purchasing data fitting BetaGeoFitter from the lifetimes package to determine customer lifetime values predicting future transactions and dollar amounts
+### Technologies and Tequnies Used
+- Python
+- Jupyter Notebook
+- Feature Engineering
